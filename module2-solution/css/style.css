@@ -6,7 +6,7 @@
     padding:10px;
     margin:1%;
     width:470px;
-    border:2px solid black;
+    border:1px solid black;
     float:left;
     position: relative;
     background-color:gray;
@@ -16,7 +16,7 @@
     padding:10px;
     margin:1%;
     width:470px;
-    border:2px solid black;
+    border:1px solid black;
     float:left;
     position: relative;
     background-color: gray;
@@ -26,7 +26,7 @@
     padding:10px;
     margin:1%;
     width:470px;
-    border:2px solid black;
+    border:1px solid black;
     float:left;
     position: relative;
     background-color: gray;
@@ -39,8 +39,8 @@
     float: right;
     width:30%;
     margin-top: -27px;
-    border-left:2px solid black;
-    border-bottom:2px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
     font-size:27px;
     text-align: center;
     color: black;
@@ -54,8 +54,8 @@
     float: right;
     width:30%;
     margin-top: -27px;
-    border-left:2px solid black;
-    border-bottom:2px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
     font-size:27px;
     text-align: center;
     color: white;
@@ -69,8 +69,8 @@
     float: right;
     width:30%;
     margin-top: -27px;
-    border-left:2px solid black;
-    border-bottom:2px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
     font-size:27px;
     text-align: center;
     color: black;
