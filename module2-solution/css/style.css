@@ -1,9 +1,8 @@
 *{
     box-sizing:border-box;
+    background-color:green;
 }
-body{
-   background-color:green;
-}
+
 .container-1{
     padding:10px;
     margin:1%;
